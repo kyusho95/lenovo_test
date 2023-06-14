@@ -1,1 +1,1 @@
-# lenovo_test
+this is a readme file, it helps understanding the other files
